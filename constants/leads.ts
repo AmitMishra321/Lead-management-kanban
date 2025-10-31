@@ -1,5 +1,5 @@
-// Agent and priority configurations
-export const AGENTS = ["John Smith", "Priya Sharma", "Ahmed Khan", "Maria Rodriguez"]
+
+export const AGENTS = ["John", "Priya", "Ahmed" ]
 
 export const PRIORITY_COLORS = {
   High: "bg-red-500/20 text-red-700 ring-red-500",
